@@ -1,4 +1,4 @@
-var numSliders = 8;
+var numSliders = 10;
 var slideList = [];
 
 for(var l = 0; l < numSliders; l++)
